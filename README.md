@@ -1,10 +1,11 @@
-# Web Starter
+# Typography Only for Our Lady of Guadalupe
 
-> Computers are dumb. Humans make them smart.
+>Mary, mother of Jesus associated with a series of five Marian apparitions to a Mexican peasant named Juan Diego and his uncle, Juan Bernardino, which are believed to have occurred in December 1531, when the Mexican territories were under the Spanish Empire. 
 
-Starter (boilerplate) for all future projects.
+A web project to expirement with CSS typography
 
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## CSS Concepts
+
+* typography
+* Box Model
+* CSS variables 
